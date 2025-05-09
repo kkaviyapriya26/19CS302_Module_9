@@ -11,7 +11,7 @@ To write a C Write a functions to perform enqueue, dequeue, display, peek in Que
 5. Ask the user to make an input. 
 6. Print out the answer. 
 7. End
-8. 
+
 ## Program:
 ```
 char queue[50]; 
